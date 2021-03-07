@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on college classes/projects
 - 🤔 I’m looking for help with scaling mixed DPI monitors for Fedora/Ubuntu
 - 💬 Ask me about anything basically. I'm a curious person
+
+![Extra](https://github.com/fahmirafie/fahmirafie/blob/main/rickroll.gif?raw=true)
