@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+## Aspiring computer scientist, science geek, outdoor lover, small-time retail trader
 
 <!--
 **fahmirafie/fahmirafie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
