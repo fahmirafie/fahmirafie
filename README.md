@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-> I am an aspiring computer scientist, science geek, outdoor lover, small-time retail trader
+I am an aspiring computer scientist, science geek, outdoor lover, small-time retail trader
 
 <!--
 **fahmirafie/fahmirafie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
