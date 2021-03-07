@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-## Aspiring computer scientist, science geek, outdoor lover, small-time retail trader
+I am an aspiring computer scientist, science geek, outdoor lover, small-time retail trader
 
 <!--
 **fahmirafie/fahmirafie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on college classes/projects
+- 🤔 I’m looking for help with scaling mixed DPI monitors for Fedora/Ubuntu
+- 💬 Ask me about anything basically. I'm a curious person
