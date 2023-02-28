@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on college classes/projects
 - 💬 Ask me about anything basically. I'm a curious person 
-
-![Extra](https://github.com/fahmirafie/fahmirafie/blob/main/rickroll.gif?raw=true)
